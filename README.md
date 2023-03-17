@@ -1,2 +1,1 @@
-# Henry
-este es un repositorio de prueba 
+Este es un proyecto de prueba de repositorio para clonarlo 
